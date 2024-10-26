@@ -1,10 +1,7 @@
-//Javascript Created by Computerhope https://www.computerhope.com/
-//store the quotations in arrays
 var images = [],
 index = 0;
-images[0] = "<a target='_blank' href='https://shope.ee/3VDNHWRl8C'><img class='top'  border='0' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhK2omG8tLW0KslvgJ1_Qfx9Ameh0zUTiLtJuf0d94R0U3mt2Cuyw_YgtVYlbuF_aKVGJHric_cr_6wDg36DsJQ96elG1FJ1sMouagsF6KN1zmGy91cNwfyxiAJd1zgDrc_ySqDH1DvBVs2DBiXaltYoCmfW9kdWDnGSxNDDTQhmLz4MOFT83emDqrClmw/s1024/slut-teens-02-010.jpg' width='100%' height='auto'></a>";
-images[1] = "<a target='_blank' href='https://shope.ee/3VDNHWRl8C'><img class='top'  border='0' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYhRUUooSRCMbVqCR2QCkCJljxQoCpFBenUVAM0U11tSR1f9mQtWy5vw4BwzLwGOWdK164EKL6S3z7gpllLEx0MpML-oau_GdrvjVOo2NIv-UhjDi1nj9eG_poRyXn3BavBT561tbuthVRtNzX5xsfKziCs3c_FS08e24n70_wUVH-UCaQ9BAr668PF_Q/s1024/slut-teens-02-015.jpg' width='100%' height='auto'></a>";
-images[2] = "<a target='_blank' href='https://shope.ee/3VDNHWRl8C'><img class='top'  border='0' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUD9ZQWa5MbLeBS4c0tmFbqPHE1UeKk-bwXV19VCUvDMa99vD-K8oWPKl6G5lMI2S8mZanPedqz4FrKxwwdxiSlMo_h8WxpjvAZxXV7icuqC-_gxMvxTfjekNV_drge4tNEwuUe2tcxM0JGNodCdCcUCF6scyg1Ns_b5gLvH8pnBgt-ik4TFGpqiyyriU/s1024/slut-teens-02-011.jpg' width='100%' height='auto'></a>";
+images[0] = "<a target='_blank' href='https://shope.ee/3VDNHWRl8C' class='screenshot' rel='https://s8d5.turboimg.net/t1/106257248_shopee_10.jpg'><img class='top'  border='0' src='https://images2.imgbox.com/10/d0/RB5lzx1d_o.jpg' width='100%' height='auto'>Metade do mundo não consegue compreender os prazeres na outra metade!</a>";
+images[1] = "<a target='_blank' href='https://shope.ee/3VDNHWRl8C' class='screenshot' rel='https://s8d5.turboimg.net/t1/106257249_shopee_11.jpg'>Viva novos momentos com Produtos Eroticos da Shopee!<img class='top'  border='0' src='https://images2.imgbox.com/60/a5/96JVtKaF_o.jpg' width='100%' height='auto'></a>";
+images[2] = "<a target='_blank' href='https://shope.ee/3VDNHWRl8C' class='screenshot' rel='https://s8d5.turboimg.net/t1/106257250_shopee_12.jpg'><img class='top'  border='0' src='https://images2.imgbox.com/fd/47/JpqhDh5R_o.jpg' width='100%' height='auto'>O amor é o romance do coração: a sua história é o prazer!</a>";
 index = Math.floor(Math.random() * images.length);
 document.write(images[index]);
-//done
