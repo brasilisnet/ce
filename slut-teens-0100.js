@@ -1,10 +1,6 @@
-//Javascript Created by Computerhope https://www.computerhope.com/
-//store the quotations in arrays
 var images = [],
 index = 0;
-images[0] = "<a target='_blank' href='https://shope.ee/3VDNHWRl8C'><img class='top' border='0' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0c-L3KJoV4AOUez0g8ji4fUU0PHsI1I0jP4DEMb5g59qteIFR97SYxtKLSkrrpUb5jLaHEPSPxZdmvBarYpotgW-RqRxfaBvpWP1TMsQufrEwNYqA5WvN26KQOpWnwh_RKEw7Fw_PEt_sFPvripqdbW_k2ZcUPhYlcnFfG24gmHLkN1e_Z2AyvsYXfrI/s1600/slut-teens-0298.webp' width='100%' height='auto'></a>";
-images[1] = "<a target='_blank' href='https://shope.ee/3VDNHWRl8C'><img class='top' border='0' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTyoWJ-7WsP07SflHqVbRpvPuZxgZ4P3eD6kJRt8gQ0w5eCWvCx1wX1qJ-q06GynttHZTkAJFPBAX55g06YEfhJQZ6f3xy1v1bWB11aKp5MjhQ5EQnKLC9q1hRNyxSBNj7gmOUTGBYxa0KYh6PjkzJbUa16JiaPfLs78vGBffVd97eTAr-hTIhofhwinI/s1600/slut-teens-0299.webp' width='100%' height='auto'></a>";
-images[2] = "<a target='_blank' href='https://shope.ee/3VDNHWRl8C'><img class='top' border='0' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgd6QJMeh_klaUpXxewdWs6CVWAbP0U8pvVYaRwBPUL0NJ84BHm49HyfURB9_fy8sFt5bTHokH0CxY53dr76-9Qqndbvi62DfEuf0YK45TfRm1HzmYbc6D_GzvpEk1chCyuGwGIbM7ZQfpjT1f3Mgiy3eRGHnmjr81tddGVxCbztPsvXq1X3LZ7xZRHXbs/s1600/slut-teens-0300.webp' width='100%' height='auto'></a>";
-index = Math.floor(Math.random() * images.length);
+images[0] = "<a target='_blank' href='https://shope.ee/3VDNHWRl8C' class='screenshot' rel='https://s8d5.turboimg.net/t1/106257239_shopee_01.jpg'>O erotismo é o grande triângulo entre o homem, a mulher e Deus!<img class='top'  border='0' src='https://images2.imgbox.com/d2/e3/x1TRf8SE_o.jpg' width='100%' height='auto'></a>";
+images[1] = "<a target='_blank' href='https://shope.ee/3VDNHWRl8C' class='screenshot' rel='https://s8d5.turboimg.net/t1/106257240_shopee_02.jpg'>Realizando fantasias com Produtos Eroticos da Shopee!<img class='top'  border='0' src='https://images2.imgbox.com/61/39/PPQdBL0q_o.jpg' width='100%' height='auto'></a>";
+images[2] = "<a target='_blank' href='https://shope.ee/3VDNHWRl8C' class='screenshot' rel='https://s8d5.turboimg.net/t1/106257241_shopee_03.jpg'><img class='top'  border='0' src='https://images2.imgbox.com/6c/5c/DVD8H47G_o.jpg' width='100%' height='auto'>O erotismo é uma das bases do conhecimento de nós próprios, tão indispensável como a poesia!</a>";
 document.write(images[index]);
-//done

@@ -1,10 +1,6 @@
-//Javascript Created by Computerhope https://www.computerhope.com/
-//store the quotations in arrays
 var images = [],
 index = 0;
-images[0] = "<a target='_blank' href='https://shope.ee/3VDNHWRl8C'><img class='top' border='0' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiD-8OegQS5KxXj4UvZDpwPykD0Guwg5_pIZyO38eyMD1oPIQHwmA9PMkieJnGsAU4JSR265HgP2gcN_XMOTM14pRIfNgrhB83nWgWfkeADqH9pacTKigw02WkAHvyWvBoZpWbt2aC0fTVzgX5qaWdaAuUkTlhNX6KFIlaATY3oFEdiZvJhmVAxxZArmF0/s1600/slut-teens-0391.webp' width='100%' height='auto'></a>";
-images[1] = "<a target='_blank' href='https://shope.ee/3VDNHWRl8C'><img class='top' border='0' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAjedtS-3L-Wh1T3yABkA8TO9HC9twespBvYQkgVJfdB66-otFikB9DiaiDVmOGJQNZpOICayiKIzu5PigDwYHXR7Z_-lIAFUP_CbGK4I511dX7gpATNDftC8kWdLh0DH2hAScIJuXNMYzhuK8gPF05yUPYOFT58quz4NKcBVbNLwmgY55FsFWCfx9Ur8/s1600/slut-teens-0392.webp' width='100%' height='auto'></a>";
-images[2] = "<a target='_blank' href='https://shope.ee/3VDNHWRl8C'><img class='top' border='0' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy4IvgXesfek9Oi5sPKuxSTC4bn3oA2yRHUfwLX3017JnIq0HVd0RrEKoVjEXpGmMq75NO8rJSzu43wv9s-ieIsp7QIT1x3qBCNWURWxhyfOTgc8XNozOmXKiUrJkksYZJ-lyLVEsJUJ_aPL-eCLsnJZmlynfGb4OVDbQc2nGqJo-Imhzj02oKOofMAlc/s1600/slut-teens-0393.webp' width='100%' height='auto'></a>";
-index = Math.floor(Math.random() * images.length);
+images[0] = "<a target='_blank' href='https://shope.ee/3VDNHWRl8C' class='screenshot' rel='https://s8d5.turboimg.net/t1/106257251_shopee_13.jpg'>Aproveite cada sensação que o prazer pode lher proporcionar!<img class='top'  border='0' src='https://images2.imgbox.com/24/99/YETYAwbg_o.jpg' width='100%' height='auto'></a>";
+images[1] = "<a target='_blank' href='https://shope.ee/3VDNHWRl8C' class='screenshot' rel='https://s8d5.turboimg.net/t1/106257253_shopee_14.jpg'>Todo prazer é erótico!<img class='top'  border='0' src='https://images2.imgbox.com/59/37/YovWhJXW_o.jpg' width='100%' height='auto'></a>";
+images[2] = "<a target='_blank' href='https://shope.ee/3VDNHWRl8C' class='screenshot' rel='https://s8d5.turboimg.net/t1/106257255_shopee_15.jpg'><img class='top'  border='0' src='https://images2.imgbox.com/53/16/N5YlBKnK_o.jpg' width='100%' height='auto'>Os produtos eroticos te ajudam a se descobrir e a descobrir o prazer do outro!</a>";
 document.write(images[index]);
-//done

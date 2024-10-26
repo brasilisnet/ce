@@ -1,10 +1,6 @@
-//Javascript Created by Computerhope https://www.computerhope.com/
-//store the quotations in arrays
 var images = [],
 index = 0;
-images[0] = "<a target='_blank' href='https://shope.ee/3VDNHWRl8C'><img class='top' border='0' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOZuvWzOocKuov193s7MHLD1PkRqKZIsf44GxyZoTGjcBrEm9ysefaUiW_CuIdsC2COrIkZOkM1WKFN7gSpwIqhng5QOdCJDjFkce5ptDSxneCmioKKStAa31mlq5cxKFjRDp-n1_I3Zh67u9R5LCQmwOXEs9xXbyhAB8UnK-CS_WgdyuOsfwE9XH3uUY/s1600/slut-teens-0292.webp' width='100%' height='auto'></a>";
-images[1] = "<a target='_blank' href='https://shope.ee/3VDNHWRl8C'><img class='top' border='0' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXoEJcgc8-s7XNkmrDlsO1O7jQL6nrMg04H4SL7pnrn4g3KmXuv8EGqn3EYiOIbQ1MGJ-E9eeVw4bLaIQAshEdKKut18yN1C7oteEXrY0_AUDUF-KhLR81l0YzVxTUdIoQiDY2y1o_2feJH-XnUeoJmRETprC7hEhVdNTdDyyYgc_O6Fh348OFgLjCrEs/s1600/slut-teens-0293.webp' width='100%' height='auto'></a>";
-images[2] = "<a target='_blank' href='https://shope.ee/3VDNHWRl8C'><img class='top' border='0' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghpSYI157B8CobkyO1dhPn1W74RSWq82WF5Ij0jcXzv2CcxgD2qFIKbCeP_I8QzgE_L3GbyqX9XIi7HNPCHIoblHEWWkIQdIOTeMZbPNpQ5YhT_bAKOQmFy91aFaqK66lg_tQFSdY0fKdngSSDwUer2-8t3vQhJxelXbSNUOvidsunje8sF-f4rRhBUvU/s1600/slut-teens-0294.webp' width='100%' height='auto'></a>";
-index = Math.floor(Math.random() * images.length);
+images[0] = "<a target='_blank' href='https://shope.ee/3VDNHWRl8C' class='screenshot' rel='https://s8d5.turboimg.net/t1/106257265_shopee_22.jpg'><img class='top'  border='0' src='https://images2.imgbox.com/13/74/DDSHh02J_o.jpg' width='100%' height='auto'>Voce ja teve aquela vontadezinha de usar acessorios um pouco mais... intensos?</a>";
+images[1] = "<a target='_blank' href='https://shope.ee/3VDNHWRl8C' class='screenshot' rel='https://s8d5.turboimg.net/t1/106257266_shopee_23.jpg'>Não há paixão mais egoísta do que a luxúria!<img class='top'  border='0' src='https://images2.imgbox.com/e5/c4/vPzuOjFB_o.jpg' width='100%' height='auto'></a>";
+images[2] = "<a target='_blank' href='https://shope.ee/3VDNHWRl8C' class='screenshot' rel='https://s8d5.turboimg.net/t1/106257267_shopee_24.jpg'><img class='top'  border='0' src='https://images2.imgbox.com/2f/0a/3zL15Vz7_o.jpg' width='100%' height='auto'>Deixe o preconceito de lado e venha conhecer tudo sobre o prazer!</a>";
 document.write(images[index]);
-//done
